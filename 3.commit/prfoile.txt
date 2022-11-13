@@ -1,2 +1,2 @@
-email :
-gitID :
+email : sea15510@gmail.com
+gitID : Haesus
